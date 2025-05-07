@@ -74,7 +74,7 @@ export default function Create() {
   /** 2. MAPA DE DESCRIPCIONES */
   const descripciones = {
     '1': {
-      '1': [
+      '10': [
         'Almuerzo',
         'Cena',
         'Cortesía',
@@ -84,10 +84,10 @@ export default function Create() {
         'Festividad Colaboración',
         'Movilidad'
       ],
-      '2': ['Es Salud', 'IGV Sunat', 'ONP', 'Préstamo Banco', 'Visa Comisión'],
-      '3': ['Delivery Sueldo', 'Gerente Sueldo'],
-      '4': ['Colaboración Club', 'Decoración', 'Publicidad Video'],
-      '5': [
+      '28': ['Es Salud', 'IGV Sunat', 'ONP', 'Préstamo Banco', 'Visa Comisión'],
+      '99': ['Delivery Sueldo', 'Gerente Sueldo'],
+      '19': ['Colaboración Club', 'Decoración', 'Publicidad Video'],
+      '20': [
         'Boletas de Venta',
         'Carnet Salud',
         'Certificado Indeci Daniel',
@@ -95,13 +95,9 @@ export default function Create() {
         'Envió Encomienda',
         'Papeleta Multa'
       ],
-      '17': ['Alimentación y Transporte'],
-      '19': ['Publicidad'],
-      '20': ['Trámites y Documentos'],
-      '28': ['Finanzas Impuestos']
     },
     '2': {
-      '6': [
+      '16': [
         'Baldes Cremas',
         'Bancos Plásticos',
         'Cubiertos',
@@ -110,8 +106,7 @@ export default function Create() {
         'Gorros de Baldes',
         'Tabla de Picar Acero'
       ],
-      '7': ['Movilidad'],
-      '8': [
+      '17': [
         'Cinta Adesiva',
         'Dispensador de Cinta',
         'Impresora Almacén',
@@ -122,7 +117,7 @@ export default function Create() {
         'Sello Gerencia',
         'Ventilador'
       ],
-      '9': [
+      '25': [
         'Auto Gasolina',
         'Camión Gas',
         'Camión Gasolina',
@@ -130,13 +125,13 @@ export default function Create() {
         'Minivan Gasolina',
         'Moto Gasolina'
       ],
-      '10': [
+      '6': [
         'Gaseosa Descarte',
         'Pepsi Descarte',
         'Pollo Chaufa',
         'Pollo Descarte'
       ],
-      '11': [
+      '3': [
         'Caja Descanso',
         'Cena',
         'Cocina Apoyo',
@@ -151,7 +146,7 @@ export default function Create() {
         'Supervisor',
         'Supervisor Sueldo'
       ],
-      '12': [
+      '2': [
         'Auto Cochera',
         'Camión Cochera',
         'Internet',
@@ -162,13 +157,6 @@ export default function Create() {
         'Recarga Teléfono',
         'Teléfono José'
       ],
-      '5': ['Planilla'],
-      '6': ['Insumo'],
-      '16': ['Accesorios de Cocina'],
-      '17': ['Artículos de Oficina'],
-      '24': ['Mantenimiento'],
-      '25': ['Combustible'],
-      '26': ['Servicios']
     }
   }
 
